@@ -46,15 +46,26 @@
     <section>
       <h2>$it.year$</h2>
       <ul>
-      $for(it.books)$
+        $for(years.books)$
         <li>
-          <a href="$it.link$">
-            <img src="$it.img$" alt="" />
+          <a href="$years.books.link$">
+            <img src="$years.books.img$" alt="" />
           </a>
         </li>
-      $endfor$
+        $endfor$
       </ul>
-    <section>
+    </section>
     $endfor$
+    <footer>
+      <p>Made with ❤️ by <a href="https://github.com/hschne">hschne</a></p>
+      <p>
+        Inspired by
+        <a
+          href="https://frontend.horse/articles/thinking-outside-the-box-with-css-grid/"
+          >Frontend Horse</a
+        >
+        🐴
+      </p>
+    </footer>
   </body>
 </html>

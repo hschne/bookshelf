@@ -37,6 +37,19 @@ nav a {
   color: white;
 }
 
+a:link,
+a:visited {
+  color: white;
+}
+
+footer {
+  display: flex;
+  justify-content: space-between;
+  font-size: 3rem;
+  color: #fff;
+  padding: 3rem 8rem;
+}
+
 section {
   display: flex;
   flex-direction: column;
@@ -56,7 +69,7 @@ ul {
   grid-template-columns: repeat(var(--columns), 1fr);
   list-style: none;
   width: 100%;
-  margin: 20rem 0;
+  margin-top: 20rem 0;
 }
 
 li {
@@ -223,19 +236,24 @@ li:nth-child(9n-5)::after {
     linear-gradient(-45deg, var(--white) 40%, var(--blue-green) 40%);
 }
 
-li a img {
+img {
   position: absolute;
   width: 43%;
   left: 50%;
   top: 50%;
   transform: translateX(-50%) translateY(-60%);
   box-shadow: 5px -5px 10px rgb(0 0 0 / 30%);
+  transition-property: transform;
+  transition-duration: 0.3s;
+}
+
+img:hover {
+  transform: translateX(-50%) translateY(-70%) scale(110%);
 }
 
 @media (width >= 450px) {
   ul {
-    margin: 12rem 0;
-    padding: 0 10rem;
+    margin-top: 12rem;
   }
 }
 
@@ -273,7 +291,7 @@ li a img {
   }
 
   ul {
-    margin: 15rem 0;
+    margin-top: 15rem;
   }
 
   li:nth-child(6n-2) {
