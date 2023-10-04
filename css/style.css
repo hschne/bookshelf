@@ -45,9 +45,9 @@ a:visited {
 footer {
   display: flex;
   justify-content: space-between;
-  font-size: 3rem;
+  font-size: 1.2rem;
   color: #fff;
-  padding: 3rem 8rem;
+  padding: 1rem 4rem;
 }
 
 section {
@@ -69,7 +69,7 @@ ul {
   grid-template-columns: repeat(var(--columns), 1fr);
   list-style: none;
   width: 100%;
-  margin-top: 20rem 0;
+  margin-top: 10rem;
 }
 
 li {
@@ -253,7 +253,11 @@ img:hover {
 
 @media (width >= 450px) {
   ul {
-    margin-top: 12rem;
+    margin-top: 25rem;
+  }
+
+  footer {
+    font-size: 2.2rem;
   }
 }
 
