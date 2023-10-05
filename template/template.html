@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
   <head>
-    <title></title>
+    <title>The Bookshelf</title>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -11,6 +11,7 @@
       rel="stylesheet"
     />
     <link href="css/style.css" rel="stylesheet" />
+    <link rel="icon" type="image/x-icon" href="favicon.ico" />
   </head>
   <body></body>
 </html>
@@ -30,7 +31,7 @@
         $for(years.books)$
         <li class="tile book">
           <a href="$years.books.link$">
-            <img src="$years.books.img$" alt="" />
+            <img loading="lazy" src="$years.books.img$" alt="" />
           </a>
         </li>
         $endfor$ $endfor$
