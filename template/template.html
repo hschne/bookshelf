@@ -23,20 +23,19 @@
     <title>$title$</title>
   </head>
   <body>
-    $for(years)$
     <section>
-      <h2>$it.year$</h2>
       <ul>
+        $for(years)$
+        <li class="year"><h2>$years.year$</h2></li>
         $for(years.books)$
-        <li>
+        <li class="book">
           <a href="$years.books.link$">
             <img src="$years.books.img$" alt="" />
           </a>
         </li>
-        $endfor$
+        $endfor$ $endfor$
       </ul>
     </section>
-    $endfor$
     <footer>
       <p>Made with ❤️ by <a href="https://github.com/hschne">hschne</a></p>
       <p>
