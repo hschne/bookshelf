@@ -7,7 +7,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
-      href="https://fonts.googleapis.com/css2?family=Eczar:wght@400;600;700&family=Rubik:wght@400;500;700&display=swap"
+      href="https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,500&family=Inter:wght@400;500;700&display=swap"
       rel="stylesheet"
     />
     <link href="css/style.css" rel="stylesheet" />
@@ -26,9 +26,9 @@
     <section>
       <ul>
         $for(years)$
-        <li class="year"><h2>$years.year$</h2></li>
+        <li class="tile year"><h2>$years.year$</h2></li>
         $for(years.books)$
-        <li class="book">
+        <li class="tile book">
           <a href="$years.books.link$">
             <img src="$years.books.img$" alt="" />
           </a>
@@ -37,14 +37,13 @@
       </ul>
     </section>
     <footer>
-      <p>Made with ❤️ by <a href="https://github.com/hschne">hschne</a></p>
+      <p>Made by <a href="https://github.com/hschne">hschne</a></p>
       <p>
         Inspired by
         <a
           href="https://frontend.horse/articles/thinking-outside-the-box-with-css-grid/"
           >Frontend Horse</a
         >
-        🐴
       </p>
     </footer>
   </body>
