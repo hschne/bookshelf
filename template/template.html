@@ -31,7 +31,12 @@
         $for(years.books)$
         <li class="tile book">
           <a href="$years.books.link$">
-            <img loading="lazy" src="$years.books.img$" alt="" />
+            <img
+              onload="this.style.opacity=1"
+              loading="lazy"
+              src="$years.books.img$"
+              alt=""
+            />
           </a>
         </li>
         $endfor$ $endfor$

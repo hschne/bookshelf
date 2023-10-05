@@ -259,8 +259,11 @@ img {
   top: 50%;
   transform: translateX(-50%) translateY(-60%);
   box-shadow: 5px -5px 10px rgb(0 0 0 / 20%);
-  transition-property: transform box-shadow;
-  transition-duration: 0.3s;
+  opacity: 0;
+  transition:
+    transform 0.3s,
+    box-shadown 0.3s,
+    opacity ease 0.4s;
 }
 
 img:hover {
@@ -300,6 +303,10 @@ img:hover {
 @media (width >= 900px) {
   :root {
     --columns: 7;
+  }
+
+  ul {
+    margin-top: 10%;
   }
 
   h2 {
