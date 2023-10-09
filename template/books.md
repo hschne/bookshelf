@@ -97,6 +97,10 @@ years:
         author: Stephen R. Bown
         img: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344752682i/13587148.jpg
         link: https://www.goodreads.com/book/show/13587148-the-last-viking
+      - name: Surely You're Joking, Mr. Feynman!
+        author: Richard P. Feynman
+        img: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1504936953i/35167685.jpg
+        link: https://www.goodreads.com/book/show/35167685-surely-you-re-joking-mr-feynman
       - name: Children of Memory
         author: Adrian Tchaikovsky
         img: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1655929460i/60850767.jpg
@@ -113,6 +117,10 @@ years:
         author: James S.A. Corey
         img: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1623242081i/36130437.jpg
         link: https://www.goodreads.com/book/show/36130437-memory-s-legion
+      - name: The Ink Black Heart
+        author: Robert Galbraith
+        img: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1658242219i/60144955.jpg
+        link: https://www.goodreads.com/book/show/60144955-the-ink-black-heart
       - name: Hummingbird Salamander
         author: Jeff VanderMeer
         img: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1604593916i/53359447.jpg
@@ -211,5 +219,71 @@ years:
         author: William Zinsser
         img: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1538764251i/53343.jpg
         link: https://www.goodreads.com/book/show/53343.On_Writing_Well
+      - name: "World Engines: Creator"
+        author: Stephen Baxter
+        img: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1590745837i/53609432.jpg
+        link: https://www.goodreads.com/book/show/53609432-world-engines
+      - name: "World Engines: Destroyer"
+        author: Stephen Baxter
+        img: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1556003457i/45276063.jpg
+        link: https://www.goodreads.com/book/show/45276063-world-engines
+      - name: The Design of Everday Things
+        author: Donald A. Norman
+        img: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442460745i/840.jpg
+        link: https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things
+  - year: 2020
+    books:
+      - name: Test-Driven Development
+        author: Kent Beck
+        img: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1372039943i/387190.jpg
+        link: https://www.goodreads.com/book/show/387190.Test_Driven_Development
+      - name: Thinking, Fast and Slow
+        author: Daniel Kahneman
+        img: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1317793965i/11468377.jpg
+        link: https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow
+      - name: Troubled Blood
+        author: Robert Galbraith
+        img: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1594301752i/51807232.jpg
+        link: https://www.goodreads.com/book/show/51807232-troubled-blood
+      - name: The Rosewater Redemption
+        author: Tade Thompson
+        img: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1569892387i/43885011.jpg
+        link: https://www.goodreads.com/book/show/43885011-the-rosewater-redemption
+      - name: The Rosewater Insurrection
+        author: Tade Thompson
+        img: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1546384122i/40696972.jpg
+        link: https://www.goodreads.com/book/show/40696972-the-rosewater-insurrection
+      - name: Rosewater
+        author: Tade Thompson
+        img: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1534300082i/38362809.jpg
+        link: https://www.goodreads.com/book/show/38362809-rosewater
+      - name: Sword of Destiny
+        author: Andrzej Sapkowski
+        img: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1671660198i/25454056.jpg
+        link: https://www.goodreads.com/book/show/25454056-sword-of-destiny
+      - name: The Last Wish
+        author: Andrzej Sapkowski
+        img: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1529591917i/40603587.jpg
+        link: https://www.goodreads.com/book/show/40603587-the-last-wish
+      - name: The Lady of the Lake
+        author: Andrzej Sapkowski
+        img: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1484410866i/32186143.jpg
+        link: https://www.goodreads.com/book/show/32186143-the-lady-of-the-lake
+      - name: The Tower of the Swallow
+        author: Andrzej Sapkowski
+        img: https://www.orbitbooks.net/wp-content/uploads/2016/02/Sapkowski_TowerofSwallows-TP.jpg
+        link: https://www.goodreads.com/book/show/18247597-the-tower-of-the-swallow
+      - name: Baptism of Fire
+        author: Andrzej Sapkowski
+        img: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1443279182i/18656031.jpg
+        link: https://www.goodreads.com/book/show/18656031-baptism-of-fire
+      - name: The Time of Contempt
+        author: Andrzej Sapkowski
+        img: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1443278961i/14781491.jpg
+        link: https://www.goodreads.com/book/show/14781491-the-time-of-contempt
+      - name: Blood of Elves
+        author: Andrzej Sapkowski
+        img: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1589998653i/6043781.jpg
+        link: https://www.goodreads.com/book/show/6043781-blood-of-elves
 ---
 
