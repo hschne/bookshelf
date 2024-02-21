@@ -1,8 +1,34 @@
 ---
 title: Hans' Bookshelf
 years:
+  - year: 2024
+    books:
+      - name: Red Mars
+        author: Kim Stanley Robinson
+        img: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1660272828i/77507.jpg
+        link: https://www.goodreads.com/book/show/77507.Red_Mars
+      - name: Snow Crash
+        author: Neal Stephenson
+        img: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1589842551i/40651883.jpg
+        link: https://www.goodreads.com/book/show/40651883-snow-crash
+      - name: "Make: The Bootstrappers Handbook"
+        author: Pieter Levels
+        img: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1520858702i/39165640.jpg
+        link: https://www.goodreads.com/book/show/39165640-make
   - year: 2023
     books:
+      - name: Modern Front-End Development for Rails
+        author: Noel Rappin
+        img: https://pragprog.com/titles/nrclient2/modern-front-end-development-for-rails-second-edition/nrclient2-250.jpg
+        link: https://pragprog.com/titles/nrclient2/modern-front-end-development-for-rails-second-edition/
+      - name: Radical Candor
+        author: Kim Malone Scott
+        img: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1482838407i/29939161.jpg
+        link: https://www.goodreads.com/book/show/29939161-radical-candor
+      - name: The Running Grave
+        author: Robert Galbraith
+        img: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1689796008i/139399948.jpg
+        link: https://www.goodreads.com/book/show/139399948-the-running-grave
       - name: This is How You Lose the Time War
         author: Amal El-Mothar, Max Gladstone
         img: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1653185078i/43352954.jpg
@@ -285,5 +311,9 @@ years:
         author: Andrzej Sapkowski
         img: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1589998653i/6043781.jpg
         link: https://www.goodreads.com/book/show/6043781-blood-of-elves
+      - name: Masters of Doom
+        author: David Kushner
+        img: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1557932856i/222146.jpg
+        link: https://www.goodreads.com/en/book/show/222146
 ---
 
