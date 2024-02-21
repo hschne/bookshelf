@@ -11,6 +11,18 @@ years:
         author: Neal Stephenson
         img: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1589842551i/40651883.jpg
         link: https://www.goodreads.com/book/show/40651883-snow-crash
+      - name: The Return of the King
+        author: J.R.R. Tolkien
+        img: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1654216226i/61215384.jpg
+        link: https://www.goodreads.com/book/show/61215384-the-return-of-the-king
+      - name: The Two Towers 
+        author: J.R.R. Tolkien
+        img: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1654216149i/61215372.jpg
+        link: https://www.goodreads.com/book/show/61215372-the-two-towers
+      - name: The Fellowship of the Ring
+        author: J.R.R. Tolkien
+        img: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1654215925i/61215351.jpg
+        link: https://www.goodreads.com/book/show/61215351-the-fellowship-of-the-ring
       - name: "Make: The Bootstrappers Handbook"
         author: Pieter Levels
         img: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1520858702i/39165640.jpg
