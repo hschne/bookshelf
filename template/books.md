@@ -241,6 +241,10 @@ years:
         author: Becky Chambers
         img: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1405532474i/22733729.jpg
         link: https://www.goodreads.com/book/show/22733729-the-long-way-to-a-small-angry-planet
+      - name: Project Hail Mary
+        author: Andy Weir
+        img: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1597695864i/54493401.jpg
+        link: https://www.goodreads.com/en/book/show/54493401
       - name: On Writing Well
         author: William Zinsser
         img: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1538764251i/53343.jpg
