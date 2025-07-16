@@ -1,8 +1,74 @@
 ---
 title: Hans' Bookshelf
 years:
+  - year: 2025
+    books:
+      - name: In Ascension
+        author: Martin MacInnes
+        img: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1698177121i/197063361.jpg
+        link: https://www.goodreads.com/book/show/197063361-in-ascension
+      - name: The Space Between Worlds
+        author: Micaiah Johnson
+        img: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1585293595l/43301353.jpg
+        link: https://www.goodreads.com/book/show/43301353-the-space-between-worlds
+      - name: Alien Clay
+        author: Adrian Tchaikovsky
+        img: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1693389349i/195443798.jpg
+        link: https://www.goodreads.com/book/show/195443798-alien-clay
+      - name: Infinity Gate
+        author: M.R. Carey
+        img: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1665587330i/61237044.jpg
+        link: https://www.goodreads.com/en/book/show/61237044
+      - name: Dust
+        author: Hugh Howey
+        img: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1369522849i/17855756.jpg
+        link: https://www.goodreads.com/book/show/17855756-dust
+      - name: Shift
+        author: Hugh Howey
+        img: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1379003176i/17306293.jpg
+        link: https://www.goodreads.com/book/show/17306293-shift
+      - name: Wool
+        author: Hugh Howey
+        img: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1349614200i/13453029.jpg
+        link: https://www.goodreads.com/book/show/13453029-wool-omnibus
   - year: 2024
     books:
+      - name: Piranesi
+        author: Susanna Clarke
+        img: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1609095173i/50202953.jpg
+        link: https://www.goodreads.com/book/show/50202953-piranesi
+      - name: Fierce Conversations
+        author: Susan Scott
+        img: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1482092778i/31579916.jpg
+        link: https://www.goodreads.com/book/show/31579916-fierce-conversations
+      - name: Baby Betriebsanleitung
+        author: Joe Borgenicht
+        img: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1504367948i/36168737.jpg
+        link: https://www.goodreads.com/book/show/36168737
+      - name: The Ministry for the Future
+        author: Kim Stanley Robinson
+        img: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1668935201i/50998056.jpg
+        link: https://www.goodreads.com/book/show/50998056-the-ministry-for-the-future
+      - name: Lord of Light
+        author: Roger Zelazny
+        img: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1330127327i/13821.jpg
+        link: https://www.goodreads.com/book/show/13821.Lord_of_Light
+      - name: Memory's Legion
+        author: James S.A. Corey
+        img: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1623242081i/36130437.jpg
+        link: https://www.goodreads.com/book/show/36130437-memory-s-legion
+      - name: Radical Candor
+        author: Kim Malone Scott
+        img: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1482838407i/29939161.jpg
+        link: https://www.goodreads.com/book/show/29939161-radical-candor
+      - name: Blue Mars
+        author: Kim Stanley Robinson
+        img: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1429497319i/77504.jpg
+        link: https://www.goodreads.com/book/show/77504.Blue_Mars
+      - name: Green Mars
+        author: Kim Stanley Robinson
+        img: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1389628152i/77505.jpg
+        link: https://www.goodreads.com/book/show/77505.Green_Mars
       - name: Red Mars
         author: Kim Stanley Robinson
         img: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1660272828i/77507.jpg
